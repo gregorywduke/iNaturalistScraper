@@ -1,5 +1,5 @@
 # iNaturalistScraper
-Desktop application that downloads list of image urls contained in an "Export Observations" CSV file from iNaturalist. Written in Python, this scraper uses PySimpleGUI and comes packaged in an executable. 
+Desktop application that downloads images from a list of image urls contained in an "Export Observations" CSV file from iNaturalist. Written in Python, this scraper uses PySimpleGUI and comes packaged in an executable. If you need to compile a dataset of nature images, this is the tool to use. 
 
 To Use, Follow these Steps:
 1. Visit the "Export Observations" page on iNaturalist.org, and select your desired parameters.
